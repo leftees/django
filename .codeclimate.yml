@@ -1,0 +1,12 @@
+engines:
+  pep8:
+    enabled: true
+    checks:
+      E401:
+        enabled: false
+  eslint:
+    enabled: true
+  fixme:
+    enabled: true
+  radon:
+    enabled: true
